@@ -100,8 +100,8 @@ open LogUp\ Pro.xcodeproj
 
 ## 👥 联系方式
 
-- 电子邮件：iTroll@qq.com
-- Telegram：[@iTroll886](https://t.me/iTroll886)
+- 电子邮件：pxxox@qq.com
+- Telegram：[@iTroll888](https://t.me/iTroll888)
 - QQ：2171679131
 - 官方交流群：[Telegram](https://t.me/iTroll886)
 
